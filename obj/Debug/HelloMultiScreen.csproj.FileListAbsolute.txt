@@ -1,0 +1,14 @@
+C:\Users\Martin\Documents\Xamarin\HelloMultiScreen\bin\Debug\HelloMultiScreen.dll
+C:\Users\Martin\Documents\Xamarin\HelloMultiScreen\bin\Debug\HelloMultiScreen.pdb
+C:\Users\Martin\Documents\Xamarin\HelloMultiScreen\bin\Debug\HelloMultiScreen.dll.mdb
+C:\Users\Martin\Documents\Xamarin\HelloMultiScreen\bin\Debug\HelloMultiScreen.HelloMultiScreen.apk
+C:\Users\Martin\Documents\Xamarin\HelloMultiScreen\bin\Debug\HelloMultiScreen.HelloMultiScreen-Signed.apk
+C:\Users\Martin\Documents\Xamarin\HelloMultiScreen\obj\Debug\HelloMultiScreen.dll
+C:\Users\Martin\Documents\Xamarin\HelloMultiScreen\obj\Debug\HelloMultiScreen.pdb
+C:\Users\Martin\Documents\Xamarin\HelloMultiScreen\obj\Debug\android\bin\HelloMultiScreen.HelloMultiScreen.apk
+C:\Users\Martin\Documents\Xamarin\HelloMultiScreen\obj\Debug\res\layout\main.xml
+C:\Users\Martin\Documents\Xamarin\HelloMultiScreen\obj\Debug\res\values\strings.xml
+C:\Users\Martin\Documents\Xamarin\HelloMultiScreen\obj\Debug\res\drawable\icon.png
+C:\Users\Martin\Documents\Xamarin\HelloMultiScreen\obj\Debug\res\layout\second.xml
+C:\Users\Martin\Documents\Xamarin\HelloMultiScreen\obj\Debug\R.cs.flag
+C:\Users\Martin\Documents\Xamarin\HelloMultiScreen\obj\Debug\uploadflags.txt
